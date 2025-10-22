@@ -10,4 +10,7 @@ if (x * y > 3) {
 } else if (x * y < 0) {
     e = 2 * c * d - x;
 }
-alert(e)
+console.log("x = " + x)
+console.log("y = " + y)
+console.log("e =  " + e)
+alert("результат: " + e)

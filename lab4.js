@@ -1,6 +1,5 @@
 let R = +prompt("Задай радиус: ");
 console.log("Радиус: " + R)
-alert("Радиус: " + R)
 
 let n1 = 10;
 let n2 = 50;
